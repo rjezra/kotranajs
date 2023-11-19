@@ -116,7 +116,7 @@ form.addEventListener("submit", (e) => {
         <h4>Langage Préféré : ${language}</h4>
         `;
     } else {
-        alert('Veuillez acceptr les CGV');
+        alert('Veuillez valider stp!!!!!');
     }
 });
 //--------------------------------------------------------------------
